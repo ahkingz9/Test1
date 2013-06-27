@@ -1,0 +1,6 @@
+Free is for open repositories - not appropriate for us.
+
+There is 2 type of private repository plans.
+- User
+- organization
+
